@@ -41,11 +41,13 @@ A continuacion se presentan las funcionalidades de la aplicacion, así como el e
 
 Funcionalidades
 
-Funcionalidad 1: Buscar libro por titulo
-Funcionalidad 2: Listar libros registrados
-Funcionalidad 3: Listar autores registrados
-Funcionalidad 4: Listar autores vivos en determinado año
-Funcionalidad 5: Listar libros por idioma
+<ul>
+<li>Funcionalidad 1: Buscar libro por titulo</li>
+<li>Funcionalidad 2: Listar libros registrados</li>
+<li>Funcionalidad 3: Listar autores registrados</li>
+<li>Funcionalidad 4: Listar autores vivos en determinado año</li>
+<li>Funcionalidad 5: Listar libros por idioma</li>
+</ul>
 
 https://github.com/jlha76/Challenge-ONE-Literalura/blob/main/funcionalidades.mp4
 

@@ -58,7 +58,7 @@ Para acceder al proyecto clona el repositorio o descarga los archivos del proyec
 
 <h2 id=##tecnologías-utilizadas> Tecnologías utilizadas </h2>
 <p>
-  Se utilizaro las tecnologías Java 8, Spring Boot y Postgres.
+  Se utilizaron las tecnologías Java 8, Spring Boot y Postgres.
 </p>
 
 <h2 id=#personas-contribuyentes> Personas Contribuyentes </h2>

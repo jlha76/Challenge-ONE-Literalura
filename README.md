@@ -47,7 +47,7 @@ Funcionalidad 3: Listar autores registrados
 Funcionalidad 4: Listar autores vivos en determinado año
 Funcionalidad 5: Listar libros por idioma
 
-https://github.com/jlha76/ConversorDeMonedasAluraOne/assets/105262310/ab0276c0-802b-485a-b0fe-94d8adebc9c5
+https://github.com/jlha76/Challenge-ONE-Literalura/blob/main/funcionalidades.mp4
 
 </p>
 
